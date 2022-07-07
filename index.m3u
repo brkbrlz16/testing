@@ -76,11 +76,10 @@ https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1021
 
 #EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1868
 
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
