@@ -239,9 +239,6 @@ https://broadcasttr.com:446/addlive/bant1/chunklist_w175037243.m3u8?checkedby:ip
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/19.png" group-title="",AA Live
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/20.png" group-title="",ADA TV (Kıbrıs)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7438?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/21.png" group-title="",DISCOVERY CHANNEL HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1528
 
@@ -313,9 +310,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 ttvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/44.png" group-title="Spor",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/45.png" group-title="Spor",FB TV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2028
 
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/45.png" group-title="Spor",FB TV HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378165
