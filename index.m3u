@@ -265,3 +265,144 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350385
 
 #EXTINF:-1 tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/28.png" group-title="Undefined",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/29.png" group-title="Undefined",BEIN BOX OFFICE 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/548?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/30.png" group-title="Undefined",BEIN BOX OFFICE 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/569?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/31.png" group-title="Undefined",BEIN GURME HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130841
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/32.png" group-title="Undefined",BEIN IZ FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/165597
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/33.png" group-title="Undefined",BEIN MOVIES ACTION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/138922
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/34.png" group-title="Undefined",BEIN MOVIES FAMILY HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132398
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/35.png" group-title="Undefined",BEIN MOVIES PREMIER  HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132402
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/36.png" group-title="Undefined",BEIN MOVIES PREMIER 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132709
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/37.png" group-title="Undefined",BEIN MOVIES STARS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132400
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/38.png" group-title="Undefined",BEIN MOVIES TURK HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132710
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/39.png" group-title="Undefined",BEIN SERIES COMEDY HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134195
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/40.png" group-title="Undefined",BEIN SERIES DRAMA HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134194
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/41.png" group-title="Undefined",BEIN SERIES SCI-FI HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134192
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/42.png" group-title="Undefined",BEIN SERIES VICE HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134193
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/43.png" group-title="Spor",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 ttvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/44.png" group-title="Spor",GALATASARAY TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/45.png" group-title="Spor",FB TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2028
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/45.png" group-title="Spor",FB TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378165
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/46.png" group-title="Spor",TIVIBU SPOR HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1468
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/47.png" group-title="Spor",TIVIBU SPOR 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6049
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/48.png" group-title="Spor",TIVIBU SPOR 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198443
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/49.png" group-title="Spor",TIVIBU SPOR 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/386687
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/50.png" group-title="Spor",S SPORT FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/115503
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/51.png" group-title="Spor",S SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299043
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/50.png" group-title="Spor",S Sport
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1753
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/52.png" group-title="Spor",SPOR SMART FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/6050
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/53.png" group-title="Spor",SPOR SMART 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236111
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/54.png" group-title="Spor",EUROSPORT 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1755
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/55.png" group-title="Spor",EUROSPORT 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1756
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/56.png" group-title="Spor",EXXEN SPORT 1 FHD (Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/371283
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/56.png" group-title="Spor",EXXEN SPORT 1 HD (Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/299610
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/56.png" group-title="Spor",EXXEN SPORT 1 HD - FHD* (Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/389174
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/57.png" group-title="Spor",BEIN SPORTS 1 4K - UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/269994
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/57.png" group-title="Spor",BEIN SPORTS 1 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224566
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/58.png" group-title="Spor",BEIN SPORTS 2 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177939
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/58.png" group-title="Spor",BEIN SPORTS 2 FHD (Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/294661
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/59.png" group-title="Spor",BEIN SPORTS 3 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177940
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/60.png" group-title="Spor",BEIN SPORTS 4 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7597
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/61.png" group-title="Spor",BEIN SPORTS HABER FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383650
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/62.png" group-title="Spor",BEIN SPORTS MAX 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162818
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/63.png" group-title="Spor",BEIN SPORTS MAX 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162819
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/64.png" group-title="Spor",BEIN CONNECT HD 1 (Sadece Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350292?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/64.png" group-title="Spor",BEIN CONNECT HD 2 (Sadece Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350291?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/64.png" group-title="Spor",BEIN CONNECT HD 3 (Sadece Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350290?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/64.png" group-title="Spor",BEIN CONNECT HD 4 (Sadece Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350289?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/64.png" group-title="Spor",BEIN CONNECT HD 5 (Sadece Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350288?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://github.com/brkbrlz16/testing/raw/main/icons/64.png" group-title="Spor",BEIN CONNECT HD 6 (Sadece Mac Zamani)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/350287
